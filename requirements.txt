@@ -8,3 +8,4 @@ faiss-cpu
 langchain
 meta-ai-api
 langchain-community
+sentence transformers
