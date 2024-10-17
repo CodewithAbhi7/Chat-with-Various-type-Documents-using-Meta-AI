@@ -7,3 +7,4 @@ PyPDF2
 faiss-cpu
 langchain
 meta-ai-api
+langchain-community
