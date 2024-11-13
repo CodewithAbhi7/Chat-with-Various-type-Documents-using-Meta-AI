@@ -11,7 +11,7 @@ This Streamlit application allows you to ask questions about scientific document
 
 ## Note:
 
-This application relies on the `meta_ai_api` library, which serves as a mock for a real Meta AI API. Thanks to the work of [@Strvm](https://github.com/Strvm) at at [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api) on this library, we don't require an actual Meta AI API key.
+This application relies on the `meta_ai_api` library, which serves as a mock for a real Meta AI API. Thanks to the work of [@Strvm](https://github.com/Strvm) at [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api) on this library, we don't require an actual Meta AI API key.
 
 ## Requirements:
 
