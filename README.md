@@ -11,17 +11,11 @@ This Streamlit application allows you to ask questions about scientific document
 
 ## Note:
 
-This application relies on the `meta_ai_api` library, which serves as a mock for a real Meta AI API. Thanks to the work of Strvm on this library, we don't require an actual Meta AI API key.
+This application relies on the `meta_ai_api` library, which serves as a mock for a real Meta AI API. Thanks to the work of [@Strvm](https://github.com/Strvm) at at [Strvm/meta-ai-api](https://github.com/Strvm/meta-ai-api) on this library, we don't require an actual Meta AI API key.
 
 ## Requirements:
 
 Please refer to the `requirements.txt` file for a list of dependencies needed to run this application.
-
-## Installation:
-
-1. Clone this repository.
-2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
 
 ## Installation
 1) Clone the repository:
@@ -39,7 +33,6 @@ Start the Streamlit application with the following command:
 
 
 ```streamlit run main.py```
-
 
 ## Usage:
 
