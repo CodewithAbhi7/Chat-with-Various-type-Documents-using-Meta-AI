@@ -32,7 +32,7 @@ Please refer to the `requirements.txt` file for a list of dependencies needed to
 Start the Streamlit application with the following command:
 
 
-```streamlit run main.py```
+```streamlit run test.py```
 
 ## Usage:
 
