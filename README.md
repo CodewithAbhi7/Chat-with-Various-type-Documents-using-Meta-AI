@@ -20,7 +20,7 @@ Please refer to the `requirements.txt` file for a list of dependencies needed to
 ## Installation
 1) Clone the repository:
    
-```git clone https://github.com/vansh-khaneja/Chat-Multiple-Docs-Indexify.git```
+```git clone https://github.com/CodewithAbhi7/Chat-with-Various-type-Documents-using-Meta-AI```
 
 ```cd Chat-Multiple-Docs-Indexify```
 
