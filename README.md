@@ -22,8 +22,6 @@ Please refer to the `requirements.txt` file for a list of dependencies needed to
    
 ```git clone https://github.com/CodewithAbhi7/Chat-with-Various-type-Documents-using-Meta-AI```
 
-```cd Chat-Multiple-Docs-Indexify```
-
 2) Install the required dependencies:
 
 ```pip install -r requirements.txt```
